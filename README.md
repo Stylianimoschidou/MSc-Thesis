@@ -2,6 +2,7 @@
 This repository has the R scripts used for the data analysis during this project.
 
 **About the project**
+
 This study investigates transposable element (TE) expression in colorectal cancer liver metastases using bulk RNA-seq data. The analyses were performed at both:
 * Subfamily level using TEcount
 * Locus level using SQuIRE
