@@ -12,6 +12,7 @@ The discovery cohort (GSE50760) was used to define the two expression signatures
 * Tumor-associated signature
 * Metastasis-associated signature
 These signatures were then evaluated across independent validation cohorts to assess their reproducibility.
+
 Full methodology, workflow, and results are described in the thesis document. 
 
 **Data availability**
