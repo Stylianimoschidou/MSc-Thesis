@@ -18,7 +18,7 @@ Full methodology, workflow, and results are described in the thesis document.
 
 **Data availability**
 
-Raw data and count matriced are not included in this repository due to size. Data sources:
+Raw data and count matrices are not included in this repository due to size. Data sources:
 
 * GEO datasets: GSE50760, GSE144259, GSE207194, GSE124535
 * GTEx TE quantification (provided by Institut Curie)
